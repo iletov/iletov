@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iletov
 - 👀 I’m interested in sports, coding and learning new skils
-- 🌱 I’m currently learning Python and Web development
+- 🌱 I’m currently learning Django and React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... at letov88@gmail.com
 
