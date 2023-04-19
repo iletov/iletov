@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @iletov
-- 👀 I’m interested in sports, coding and learning new skils
-- 🌱 I’m currently learning Django and React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... at letov88@gmail.com
+Hi, I’m Ivan Letov - @iletov
+
 
 <!---
 iletov/iletov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
