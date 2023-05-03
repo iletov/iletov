@@ -1,8 +1,15 @@
 # Hello, I'm Ivan Letov
+My portfolio = (with special thanks to JSM) =>  { https://ivan-letov.com/ }
 
-https://ivan-letov.com/
+## Something About Me
+I learn the basics of coding and development from online courses.
+The essential part I learn and practice from various projects, tutorials, documentation and forums.
+I originally started with Python, but when I discovered React I knew I wanted to stick with it for a long time.
 
-# My Skills:
+## Even More...
+Sports have been in my life since I was 7 years old. I have been involved in various sports, but swimming is my favority.
+
+## My Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,next,python,django,mongo,mui,bootstrap,git,github,vscode,redux,netlify,vercel)](https://skillicons.dev)
 
 <!---
