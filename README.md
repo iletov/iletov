@@ -10,7 +10,7 @@ I originally started with Python, but when I discovered React I knew I wanted to
 Sports have been in my life since I was 7 years old. I have been involved in various sports, but swimming is my favority.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,next,python,django,mongo,mui,bootstrap,git,github,vscode,redux,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,next,python,django,mongo,mui,bootstrap,tailwind,git,github,vscode,redux,netlify,vercel)](https://skillicons.dev)
 
 <!---
 iletov/iletov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
