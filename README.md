@@ -4,7 +4,7 @@ My portfolio = (with special thanks to JSM) =>  { https://ivan-letov.com/ }
 ## Something About Me
 I learn the basics of coding and development from online courses.
 The essential part I learn and practice from various projects, tutorials, documentation and forums.
-I originally started with Python, but when I discovered React I knew I wanted to stick with it for a long time.
+I originally started with Python and Django, but when I discovered React and Next.js I knew I wanted to stick with it for a long time.
 
 ## Even More...
 Sports have been in my life since I was 7 years old. I have been involved in various sports, but swimming is my favority.
