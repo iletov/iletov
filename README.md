@@ -10,7 +10,7 @@ I originally started with Python and Django, but when I discovered React and Nex
 Sports have been in my life since I was 7 years old. I have been involved in various sports, but swimming is my favority.
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,next,python,mongo,prisma,shadcn,sass,mui,tailwind,git,github,vscode,redux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,next,python,mongo,prisma,sass,mui,tailwind,git,github,vscode,redux,)](https://skillicons.dev)
 
 <!---
 iletov/iletov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
